@@ -7,17 +7,17 @@
     "display": "standalone", 
     "icons": [
         {
-            "src": "img/wbc2026_logo_192x192.png", 
+            "src": "img/wbc2026-logo-192x192.png", 
             "sizes": "192x192", 
             "type": "image/png"
         }, 
         {
-            "src": "img/wbc2026_logo_512x512.png", 
+            "src": "img/wbc2026-logo-512x512.png", 
             "sizes": "512x512", 
             "type": "image/png"
         },
         {
-            "src": "img/wbc2026_logo_maskable.png", 
+            "src": "img/wbc2026-logo-maskable.png", 
             "sizes": "320x320", 
             "type": "image/png",
             "purpose": "maskable"
